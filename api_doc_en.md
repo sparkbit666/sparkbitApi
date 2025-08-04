@@ -17,7 +17,7 @@
         - [Numbers](#b3)
         - [Rate Limits REST API](#b4)
 - [Spot API Reference](#b5)
-  - [open-api](#b6) ([Api Demo](https://github.com/sparkbit3/sparkbitfile/blob/main/demo.txt))
+  - [open-api](#b6) ([Api Demo](https://github.com/sparkbit666/sparkbitApi/blob/main/demo.txt))
     -   [Balance of the assets](#1)
     -	[Acquire full delegation](#2)
     -	[Obtain all transaction records](#3)
@@ -90,7 +90,7 @@ All REST requests must include the following headings:
 
 ## <span id="a4">Signature</span>
 Generate a string to be signed
-    -   [open-api Demo](https://github.com/sparkbit3/sparkbitfile/blob/main/demo.txt)
+    -   [open-api Demo](https://github.com/sparkbit666/sparkbitApi/blob/main/demo.txt)
 
 1、Sort the parameters in ascending order of their parameter names in lexicographic order
 
